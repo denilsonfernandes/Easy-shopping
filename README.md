@@ -10,3 +10,5 @@
 <br>
 <h2>Nesse projeto também aprendemos sobre responsividade.</h2>
 <img src="https://github.com/denilsonfernandes/Easy-shopping/blob/main/Assets/img/easy%20shopping%20pc.png?raw=true" />
+<br>
+<img src="https://github.com/denilsonfernandes/Easy-shopping/blob/main/Assets/img/easy%20shopping%20cel.png?raw=true" />
